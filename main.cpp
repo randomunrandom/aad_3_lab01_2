@@ -8,7 +8,7 @@
 using namespace std;
 
 int main() {
-    srand((unsigned)time(NULL));
+    srand((unsigned)time(nullptr));
     int n, *A, u=0;
     cout << "Введите N: ";
     cin >> n;
